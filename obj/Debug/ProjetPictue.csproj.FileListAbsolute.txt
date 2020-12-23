@@ -1,0 +1,99 @@
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\ProjetPictue.exe.config
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\ProjetPictue.exe
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\ProjetPictue.pdb
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\Flat.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Console.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.Games.resources
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.home.resources
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.Properties.Resources.resources
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.csproj.CopyComplete
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.exe
+C:\Users\HP\Desktop\ProjetPictue\ProjetPictue\obj\Debug\ProjetPictue.pdb
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\ProjetPictue.exe.config
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\ProjetPictue.exe
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\ProjetPictue.pdb
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\Flat.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.AppContext.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Console.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.IO.Compression.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Net.Http.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.Games.resources
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.home.resources
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.Properties.Resources.resources
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.csproj.CopyComplete
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.exe
+C:\Users\HP\Desktop\Projet Jeu\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.pdb
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\ProjetPictue.exe.config
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\ProjetPictue.exe
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\ProjetPictue.pdb
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\Flat.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.AppContext.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Collections.Immutable.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Console.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Globalization.Calendars.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.IO.Compression.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.IO.FileSystem.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Net.Http.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Net.Sockets.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Collections.Immutable.xml
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.csprojAssemblyReference.cache
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.Games.resources
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.home.resources
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.Properties.Resources.resources
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.csproj.GenerateResource.cache
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.csproj.CoreCompileInputs.cache
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.csproj.CopyComplete
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.exe
+E:\Est Cours 2018\Mini Project Jeu Angry Box\ProjetPictue_New_AngryBox\ProjetPictue\obj\Debug\ProjetPictue.pdb
